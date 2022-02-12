@@ -1,2 +1,2 @@
 # Restaurant
-restaurant reviews application
+restaurant reviews backend
